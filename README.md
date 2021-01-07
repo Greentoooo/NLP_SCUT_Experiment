@@ -1,2 +1,3 @@
 # NLP_SCUT_Experiment
-## use pyhanlp to train a model and analyze motion
+## reference:Hanlp
+## This a NLP experiment, other codes will be uploaded in the future
